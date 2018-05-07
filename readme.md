@@ -31,9 +31,13 @@ jupyter notebook
 ```
 
 2、爬取代理IP
+
 从上到下执行`proxy.ipynb`每个Cell中的代码即可。
+
 3、爬取短评
+
 从上到下执行`scrapper-bs4.ipynb`每个Cell中的代码即可。
+
 # 爬取结果展示：
 
 
