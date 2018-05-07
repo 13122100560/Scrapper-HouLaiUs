@@ -12,8 +12,7 @@
 | ---------- | --- |
 | comment.csv |  爬取的所有热门评论结果 |
 | proxies.csv       |  爬取的代理IP，供编制爬虫的时候使用 |
-| scrapper-bs4.ipynb |  爬虫主体，使用BeautifulSoup抽取字段 |
-| scrapper-re.ipynb |  爬虫主体，使用正则表达式re抽取字段 |
+| scrapper-bs4.ipynb |  爬虫主体，使用BeautifulSoup+re抽取字段 |
 | proxy.ipynb |  爬取代理IP的爬虫 |
 | re.txt  |  Python库要求 |
 
