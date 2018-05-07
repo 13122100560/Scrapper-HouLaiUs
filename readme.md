@@ -37,7 +37,7 @@ jupyter notebook
 # 爬取结果展示：
 
 
-!()[https://github.com/XiaohuiLee/Scrapper-HouLaiUs/blob/master/comments.png]
+![](https://github.com/XiaohuiLee/Scrapper-HouLaiUs/blob/master/comments.png)
 
 接下来的下一步计划：
 我接下来会尝试对爬取的数据做可视化的展现，包括评分分布，时间序列分析，以及对热评的频率分析
