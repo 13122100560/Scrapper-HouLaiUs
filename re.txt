@@ -1,0 +1,9 @@
+numpy
+pandas
+requests
+pyecharts
+matplotlib
+plotly
+scikit-learn
+scipy
+jupyter
