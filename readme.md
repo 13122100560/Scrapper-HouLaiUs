@@ -51,18 +51,22 @@ jupyter notebook
 
 
 # 可视化结果展示：
-![](https://github.com/XiaohuiLee/Scrapper-HouLaiUs/blob/master/viz1.png)
-![](https://github.com/XiaohuiLee/Scrapper-HouLaiUs/blob/master/viz2.png)
-![](https://github.com/XiaohuiLee/Scrapper-HouLaiUs/blob/master/viz3.png)
-![](https://github.com/XiaohuiLee/Scrapper-HouLaiUs/blob/master/viz4.png)
-![](https://github.com/XiaohuiLee/Scrapper-HouLaiUs/blob/master/wordCloud.png)
+![评价情况分布1](https://github.com/XiaohuiLee/Scrapper-HouLaiUs/blob/master/viz1.png)
+![评价情况分布2](https://github.com/XiaohuiLee/Scrapper-HouLaiUs/blob/master/viz2.png)
+![打分随时间分布情况](https://github.com/XiaohuiLee/Scrapper-HouLaiUs/blob/master/viz3.png)
+![《后来的我们》词云图1](https://github.com/XiaohuiLee/Scrapper-HouLaiUs/blob/master/viz4.png)
+![《后来的我们》词云图2](https://github.com/XiaohuiLee/Scrapper-HouLaiUs/blob/master/wordCloud.png)
 
 
 >接下来的下一步计划：我接下来会尝试对爬取的数据做可视化的展现，包括评分分布，时间序列分析，以及对热评的频率分析
 
 # 总结结论：
 在对豆瓣上对于《后来的我们》进行热门短评爬取过后，看起来《后》的确口碑不佳。
+
 1、前十热门短评只有一条表达了较为正面的意见
+
 2、有过半数的影迷给出了差评的评价
+
 3、大家对于`刘若英`和`冬雨`的话题热度比较高，可能是因为这是奶茶的电影首秀，大家对周冬雨的演技也开始有所看好。
+
 4、词云中看出大家对该片的反映可能还不是很热情，“尴尬”，“退票”，“垃圾”，“呵呵”这一类比较贬义的词出现的次数也比较高
