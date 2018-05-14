@@ -43,6 +43,7 @@ jupyter notebook
 从上到下执行`scrapper-bs4.ipynb`每个Cell中的代码即可。
 
 4、数据可视化
+
 从上到下执行`visualization.ipynb`每个Cell中的代码即可。
 # 爬取结果展示：
 
