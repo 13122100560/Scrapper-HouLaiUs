@@ -52,7 +52,6 @@ jupyter notebook
 
 # 可视化结果展示：
 ![评价情况分布1](https://github.com/XiaohuiLee/Scrapper-HouLaiUs/blob/master/viz1.png)
-![评价情况分布2](https://github.com/XiaohuiLee/Scrapper-HouLaiUs/blob/master/viz2.png)
 ![打分随时间分布情况](https://github.com/XiaohuiLee/Scrapper-HouLaiUs/blob/master/viz3.png)
 ![《后来的我们》词云图1](https://github.com/XiaohuiLee/Scrapper-HouLaiUs/blob/master/viz4.png)
 ![《后来的我们》词云图2](https://github.com/XiaohuiLee/Scrapper-HouLaiUs/blob/master/wordCloud.png)
